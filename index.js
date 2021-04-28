@@ -61,8 +61,8 @@ async function convert_audio(input) {
 
 const SETTINGS_FILE = 'settings.json';
 
-let DISCORD_TOK = null;
-let WITAPIKEY = null; 
+let DISCORD_TOK = ODM2NzQwNzc5NDQyODMxNDQw.YIiZkw.skzN_aEBWkkh30JGmCT4UN0CmIQ;
+let WITAPIKEY = 46P267HDUYCBSQUFT3LW72SLZW7WGISD; 
 let SPOTIFY_TOKEN_ID = null;
 let SPOTIFY_TOKEN_SECRET = null;
 
